@@ -1,0 +1,20 @@
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.exe.config
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.exe
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.pdb
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.AssemblyReference.cache
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.Form1.resources
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.Properties.Resources.resources
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.GenerateResource.cache
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.CoreCompileInputs.cache
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.exe
+E:\A. KPL 2025\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.pdb
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.exe.config
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.exe
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\bin\Debug\tpmodul3.pdb
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.AssemblyReference.cache
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.Form1.resources
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.Properties.Resources.resources
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.GenerateResource.cache
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.csproj.CoreCompileInputs.cache
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.exe
+C:\KPL\tpmodul3_103022300042\punyaFarras\tpmodul3\tpmodul3\obj\Debug\tpmodul3.pdb
